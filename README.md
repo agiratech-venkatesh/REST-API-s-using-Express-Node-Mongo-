@@ -1,2 +1,20 @@
-# REST-API-s-using-Express-Node-Mongo-
-Crud API's
+### Install dependencies
+
+```
+npm install
+
+```
+
+### Run Server
+
+```
+npm run server
+
+```
+
+### Postman Collection
+
+```
+Postman collection is attached for the API functionality check.
+
+```
